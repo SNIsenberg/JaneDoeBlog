@@ -7,4 +7,4 @@
 ---
 
 ### Description:
-This repository holds my HTML file for Jane Doe's Blog page about ransomware.
+This repository holds my HTML files for Jane Doe's Blog page about ransomware and the 'About Us' page.
