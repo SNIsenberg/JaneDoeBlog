@@ -89,4 +89,18 @@ article > h1 {
 .portrait {
     float: right;
     box-shadow: 2px 0px 40px rgb(67, 3, 227);
+    animation-name: grow-shrink;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@media screen and (max-width: 700px) {
+    img {
+        scale: 50%;
+        margin: 0;
+        padding: 0%;
+    }
+    nav > a {
+        font-size: small;
+    }
 }
